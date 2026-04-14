@@ -28,6 +28,8 @@ Langkah yang dilakukan meliputi pembuatan repository, menghubungkan project loka
 ![Screenshot hello_world](images/p3.1.png)
 ![Screenshot hello_world](images/p3.2.png)
 
+---
+
 ## Praktikum 4: Menerapkan Widget Dasar
 
 Pada praktikum ini, saya mulai mempelajari komponen dasar dalam Flutter, yaitu widget. Widget digunakan untuk membangun tampilan antarmuka aplikasi.
@@ -41,6 +43,8 @@ Widget Text digunakan untuk menampilkan tulisan pada layar aplikasi.
 Widget Image digunakan untuk menampilkan gambar pada layar aplikasi.
 
 ![Screenshot hello_world](images/p4.1.png)
+
+---
 
 ## Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
 
