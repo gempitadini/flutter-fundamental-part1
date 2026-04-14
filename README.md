@@ -34,10 +34,12 @@ Pada praktikum ini, saya mulai mempelajari komponen dasar dalam Flutter, yaitu w
 
 ### Text Widget
 Widget Text digunakan untuk menampilkan tulisan pada layar aplikasi.
+
 ![Screenshot hello_world](images/p4.png)
 
 ### Text Image
 Widget Image digunakan untuk menampilkan gambar pada layar aplikasi.
+
 ![Screenshot hello_world](images/p4.1.png)
 
 ## Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
